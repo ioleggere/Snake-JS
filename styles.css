@@ -1,0 +1,34 @@
+.dif{
+    margin: 0 auto;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: auto;
+}
+button{
+    width: 100px;
+    height: 50px;
+    text-align: center;
+    background-color: gray;
+}
+canvas{
+    justify-content: center;
+    margin-left: 31%;
+    
+}
+.pontos{
+    text-align: center;
+    font-size: 25px;
+}
+.kk{
+    text-align: center;
+    font-size: 25px;
+}
+body{
+    background-image: url("kk.jpg");
+}
+body{
+    background-color: gray;
+}
